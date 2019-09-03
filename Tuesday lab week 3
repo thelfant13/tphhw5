@@ -22,6 +22,12 @@ Timothy Helfant
     * ability to create a profile with a demo reel of photographers photos
       * when a user logs in a profile is created that the photographer can customize and create different portfolios
         depending on subject matter (Ex climate change, Hollywood)
+      * certain portfolios are protected and need a username and password to access
+    * payment setting so photographers are paid for their photographs
+      * photographers can set each photo to a certain price so if a journalist or editors uses it in their article
+        the photographer gets paid.
+    * a way for photographers, journalists, and editors can message eachother
+     
     
   Editors
     * a way to find photos that match a certain story 
@@ -34,6 +40,7 @@ Timothy Helfant
       * ability to add hashtag to existing photo giving the photo more visibility
     * give editors ability to access a photographers portfolio/view photos
       * editors can have access to photographers portfolios so they can see photos from photographers they like
+    * a way for photographers, journalists, and editors can message eachother
     
   Journalists
     * ability add photos
@@ -44,3 +51,4 @@ Timothy Helfant
       *cann add hashtags to photos to give the photo more visibility
     * give journalists ability to view photographers portfolio
       Journalists have the ability to access photographers portfolio's
+    * a way for photographers, journalists, and editors can message eachother
