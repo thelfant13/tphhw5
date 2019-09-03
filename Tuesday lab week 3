@@ -1,0 +1,46 @@
+Zach Burkholder
+Timothy Helfant
+
+# stake holders
+  photographers
+  editors
+  journalists
+  
+  system requirements
+  disk space
+  web interface
+  database
+  
+  functional requirements
+  photographers
+    * a way to upload photos
+      * give photographers editing features for uploading such as ratio
+    * login information
+      * username and password
+    * ability to add keywords to help journalist/editors find their work
+      *adding a hashtag function and searchbar
+    * ability to create a profile with a demo reel of photographers photos
+      * when a user logs in a profile is created that the photographer can customize and create different portfolios
+        depending on subject matter (Ex climate change, Hollywood)
+    
+  Editors
+    * a way to find photos that match a certain story 
+      * search bar(being able to search for key terms)
+    * login information
+      *username and password
+    * ability to add or delete photos
+      * editor is allowed to take photos off or add photos to articles using this database
+    * ability to add captions
+      * ability to add hashtag to existing photo giving the photo more visibility
+    * give editors ability to access a photographers portfolio/view photos
+      * editors can have access to photographers portfolios so they can see photos from photographers they like
+    
+  Journalists
+    * ability add photos
+      * journalists can add photo to their articles
+    * login information
+      *username and password
+    * ability to add captions
+      *cann add hashtags to photos to give the photo more visibility
+    * give journalists ability to view photographers portfolio
+      Journalists have the ability to access photographers portfolio's
