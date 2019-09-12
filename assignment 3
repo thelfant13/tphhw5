@@ -1,0 +1,36 @@
+Users 
+Students
+Professors
+TA's
+
+User Requirements
+Students
+* submit assignments
+  *various forms of files to be accepted(pdf, docx, jpeg)
+  *attributes(file, grade, date)
+    *Server, file storage
+* view grades
+  *attributes(file, grade, feedback, date)
+    *server, file storage
+
+Professors
+* create assignments
+  *attributes(file, grade, date)
+    *server, file storage
+* ability to view asignments
+  *(file, grade, date, view_count)
+    *server, file storage
+* ability to grade assignments and provide feedback
+  *(file, grade, date, feedback)
+    *server, file storage, text editor
+
+TA's
+* ability to view asignments
+  *(file, grade, date, view_count)
+    *server, file storage
+* ability to grade assignments and provide feedback
+  *(file, grade, date, feedback)
+    *server, file storage, text editor
+*ability to edit code
+  *(file, grade, edits, view_count, edit_date)
+    *server, file storage, text editor, 
